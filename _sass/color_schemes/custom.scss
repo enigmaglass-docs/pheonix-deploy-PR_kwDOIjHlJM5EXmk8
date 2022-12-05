@@ -1,0 +1,29 @@
+//@import "./color_schemes/dark";
+
+$body-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+  roboto, "Helvetica Neue", arial, sans-serif;
+$mono-font-family: "SFMono-Regular", menlo, consolas, monospace;
+$root-font-size: 16px; // Base font-size for rems
+$body-line-height: 1.4;
+$content-line-height: 1.6;
+$body-heading-line-height: 1.25;
+
+$body-background-color: $grey-dk-100;
+$sidebar-color: $yellow-000;
+$search-background-color: $yellow-100;
+//$search-result-preview-color: $grey-dk-000;
+$table-background-color: $grey-dk-300;
+$code-background-color: $grey-dk-300;
+$feedback-color: darken($sidebar-color, 3%);
+$body-text-color: $yellow-100;
+$body-heading-color: $yellow-300;
+$search-result-preview-color: $grey-dk-000;
+$nav-child-link-color: $grey-dk-100;
+$link-color: $blue-300;
+
+$btn-primary-color: $blue-200;
+$base-button-color: $grey-dk-250;
+
+$border: 2px solid;
+$border-radius: 4px;
+$border-color: $grey-dk-200;
